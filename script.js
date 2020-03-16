@@ -29,7 +29,7 @@
 const video = document.getElementById("webcam");
 const liveView = document.getElementById("liveView");
 const demosSection = document.getElementById("demos");
-const DEBUG = true;
+const DEBUG = false;
 
 // An object to configure parameters to set for the bodypix model.
 // See github docs for explanations.
